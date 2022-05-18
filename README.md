@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Node.js">
 <img src="https://img.shields.io/static/v1?label&message=HTML&color=black&logo=HTML5">
 <img src="https://img.shields.io/static/v1?label&message=CSS&color=black&logo=CSS3">
+<img src="https://img.shields.io/static/v1?label&message=SCSS&color=black&logo=Sass">
 <img src="https://img.shields.io/static/v1?label&message=MongoDB&color=black&logo=MongoDB">
 <img src="https://img.shields.io/static/v1?label&message=Webpack&color=black&logo=Webpack">
 <img src="https://img.shields.io/static/v1?label&message=GIT&color=black&logo=git">
